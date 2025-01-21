@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  Hi 👋, I'm  Md Faizan
 🔭 Final-year undergraduate student , passionate about software development.<br>👨‍💻 Learning React, MongoDB, and Node.js.<br>💡 Curious about new tech and solving real-world problems.<br>🤝 Open to collaborations and innovative ideas.<br>🌱 Growing in full-stack development.<br>💬 Ask me about JavaScript and web apps!
 
 
